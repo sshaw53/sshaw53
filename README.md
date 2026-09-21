@@ -18,5 +18,4 @@ I'm a student interested in computer science, machine learning, and data analysi
 
 - Learning more about ML and data science
 - Open to opportunities where I can apply and grow these skills
-
-## Linkedin(https://www.linkedin.com/in/sierrahshaw/)
+- [**Linkedin**](https://www.linkedin.com/in/sierrahshaw/)
